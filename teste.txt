@@ -1,0 +1,13 @@
+i 37 maria
+i 50 izabel
+i 38 pedro
+i 60 neto
+r carlos
+r neto
+i 55 alex
+i 9 beto
+i 57 joao
+i 90 paulo
+i 40 peres
+i 45 alan
+
